@@ -1,1 +1,1 @@
-# Simple console ToDo app for Python
+# Simple ToDo app for Python
